@@ -1,3 +1,4 @@
+//JS Code
 const heightInput = document.getElementById("height");
 const weightInput = document.getElementById("weight");
 const ageInput = document.getElementById("age");
